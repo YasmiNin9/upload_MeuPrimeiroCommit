@@ -6,3 +6,5 @@ Eѕpero qυe você dê υмa olнada e deιхe υм coмenтárιo/críтιca co
 > This is my first commit of a portfolio site I developed in early April
 being more specific, 𝟶𝟹.𝟶𝟺.𝟸𝟸 :)
 I hope you'll take a look and give me a helpful comment/critique to help 👏😊
+
+Vercel Link > https://portfolio-brown-zeta-68.vercel.app
